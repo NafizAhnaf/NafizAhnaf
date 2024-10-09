@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NafizAhnaf
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Computer software.
+- 💞️ I’m looking to collaborate on new developers.
